@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunboy005
 - 👀 I’m interested in developing software, majorly webapp developing
-- 🌱 I’m currently learning PHP
+- 🌱 I’m am a PHP Developer and DotNet Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alagbesamos
 
