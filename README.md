@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.amosalagbe.netlify.app/" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
 </p>
-
+ -->
 <h3 align="center">
 Hi there, I'm <a href="https://www.amosalagbe.netlify.app/" target="_blank" rel="noreferrer">Amos Alagbe</a> 👋
 </h3>
@@ -31,7 +31,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Dot-Net-Informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-Dot-Net-informational?style=flat&logo=DotNet&color=CC342D)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
@@ -56,7 +56,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=GitHub&color=189817)
 
 
 ## 📈 GitHub Stats 
