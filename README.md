@@ -26,11 +26,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 🔭 My Projects So far
 - Hostel Management
-- <a href="https://decablog.netlify.com/">Decablog [<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />]</a>
-- <a href="https://ziggywallet.herokuapp.com/">Ziggy Wallet</a>
-- <a href="https://decablog.netlify.com/">Decablog [<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />](Web API) [<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />]</a>
-- <a href="https://msmebyjosey.herokuapp.com/">MSME Chatbot [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]</a>
-- <a href="https://jayauto.byethost14.com/">Auto Management System [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]</a>
+- <a href="https://decablog.netlify.com/">[<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />] Decablog </a>
+- <a href="https://ziggywallet.herokuapp.com/">[<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />] Ziggy Wallet (Web API)</a>
+- <a href="https://decablog.netlify.com/">[<img align="left" alt="DotNet" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/dotnet/dotnet.png" />] Decablog</a>
+- <a href="https://msmebyjosey.herokuapp.com/">[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />] MSME Chatbot </a>
+- <a href="https://jayauto.byethost14.com/"> [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />] Auto Management System</a>
 
 ## 🌱 I'm currently learning
 
